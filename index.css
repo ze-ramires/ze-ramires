@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AluraFlix</title>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swa
+p" rel="stylesheet">
+</head>
+<body>
+<header>ALURAFLIX</header>
+<section>
+<div class="container">
+<div class="titulo">
+<h1>Coach Carter - Treino para a Vida</h1>
+</div>
+<div class="video-borda">
+<iframe width="400" height="225"
+src="https://www.youtube.com/embed/jMvJwx3an2Y?si=n8CGubhRdKpYi6u9"
+title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+<section>
+<section>
+<h2>Filmes Motivacionais</h2>
+<div class="categoria-videos">
+<a href="https://youtu.be/UlY2deWLyw0">
+<img src="https://img.youtube.com/vi/UlY2deWLyw0/maxresdefault.jpg" />
+</a>
+<a href="https://youtu.be/kgJwc4qX0VY">
+<img src="https://img.youtube.com/vi/kgJwc4qX0VY/maxresdefault.jpg" />
+</a>
+<a href="https://youtu.be/z3ykxbzQ3Dc">
+<img src="https://img.youtube.com/vi/QCnXwxvA3ZY/maxresdefault.jpg" />
+</a>
+<a href="https://youtu.be/Azxbti9nPj4">
+<img src="https://img.youtube.com/vi/34fKX_ChCPk/maxresdefault.jpg" />
+</a>
+</div>
+</section>
+<p>#Todos nascemos para brilhar</p>
+</body>
+</html>
